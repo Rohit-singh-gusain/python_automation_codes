@@ -1,3 +1,4 @@
 sample file for git push
 some changes happen for more learnig
 some more changes for better learnig
+now changes will occur, but with the right spelling of learning
